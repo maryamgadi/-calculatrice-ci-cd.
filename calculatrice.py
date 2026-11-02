@@ -15,5 +15,6 @@ def division(a, b):
         raise ValueError("Division par zéro impossible")
     return a / b
 
+
 def puissance(a, b):
     return a ** b
